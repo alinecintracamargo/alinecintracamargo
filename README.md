@@ -9,6 +9,7 @@ class Programmer
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
    <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <a href="https://stackshare.io/ruby" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" /></a>
   <a href="https://stackshare.io/java" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
   <a href="https://stackshare.io/oracle" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" /></a>
   <a href="https://stackshare.io/git" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" height="40" /></a>
