@@ -22,16 +22,11 @@ class Programmer
 
 
 
-
-</div>
-
 <div align="center" style="margin-bottom:100px">
     <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=alinecintracamargo&theme=radical&mode=weekly" />
-    <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=alinecintracamargo&show_icons=true&theme=radical&layout=compact" />
+    <img width=40% align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alinecintracamargo&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" />
 </div>
 
-
-<div> 
 
   <p align="left">
     <h3 align="left">Connect with me:</h3>
