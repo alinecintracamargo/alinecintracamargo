@@ -1,8 +1,11 @@
 ### Hi there 👋
-```ruby 
-class Programmer
+```java 
+public class Programmer {
+    public static void main(String[] args) {
+        System.out.println("Programmer initialized successfully!!");
+    }
+}
 
-	def initialize() 
 ```
 <h3 align="left">Basic skills:</h3>
 <div style="display: inline_block"><br>
